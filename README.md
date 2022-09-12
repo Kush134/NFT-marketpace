@@ -45,10 +45,6 @@ Our platform enables frontend teams to do their best work.
 
 #### Live website: [TicketVast](https://ticketvastnft.vercel.app/)
 
-#### GitHub Repository: [github.com/ShivamAgarwal-code](https://github.com/ShivamAgarwal-code/NFT_Ticket_Marketplace.git)
-
-#### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
-
 #### Basic Sample Hardhat Setup
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
