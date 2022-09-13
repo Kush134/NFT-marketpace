@@ -1,4 +1,5 @@
-## Web3 Infinity Hackathon - Best use of IPFS and/or Filecoin in our project
+## Web3
+##Best use of IPFS and/or Filecoin in our project
 
 ### Challenge Description
 #### Projects that use IPFS for content-addressing and/or Filecoin for decentralized, persistent storage. (Submissions that use either technology indirectly via NFT.storage, web3.storage, Estuary.tech, Textile, or other tooling also qualify). All types of projects are welcome and we welcome your creativity. Feel free to browse past winners here for inspiration.
