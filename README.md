@@ -42,7 +42,7 @@ Our platform enables frontend teams to do their best work.
 
 ##### 1. Home Page
 
-![HomePage](https://github.com/SabeloMkhwanzi/NFT_Ticket_Marketplace/blob/main/public/TicketVast-NFT-MakerPlace-HomePage1.jpg)
+
 
 #### Live website: [TicketVast](https://ticketvastnft.vercel.app/)
 
